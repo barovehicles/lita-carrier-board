@@ -11,3 +11,9 @@ We will be providing the support to install the correct configuration to access 
 - PC notebook with Linux Ubuntu 18.04 64 bits (minimum requirement)
 - Download the package Linux for Tegra (L4T) Using the SDK Manager.
 
+
+###Table of Contents
+
+[https://github.com/barovehicles/lita-carrier-board/0.Installation.md] (#Installing your board)
+
+
