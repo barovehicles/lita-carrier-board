@@ -14,6 +14,6 @@ We will be providing the support to install the correct configuration to access 
 
 ###Table of Contents
 
-[##Installing your board](https://github.com/barovehicles/lita-carrier-board/blob/main/0.Installation.md) 
+* [Installing your board](https://github.com/barovehicles/lita-carrier-board/blob/main/0.Installation.md) 
 
 
