@@ -14,7 +14,7 @@ We will be providing the support to install the correct configuration to access 
 
 ###Table of Contents
 
-[./0.Installation.md] (#Installing your board)
+(./0.Installation.md) [#Installing your board]
 
 
 
