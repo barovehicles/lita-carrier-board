@@ -2,7 +2,20 @@
 
 Welcome to our Github repository where you can find useful information to deploy your LITA CARRIER BOARD using the processor NVIDIA JETSON NANO, XAVIER NX or TX2 NX.
 
-LITA Carrier Board is an incredible platform to be the brain of your robot.
+LITA Carrier Board is an incredible platform for rapid deployment of your projects related AI and Robotics.
+
+##Features of LITA
+
+- Compatible NVIDIA JETSON NANO (production and development modules), XAVIER NX (production and development module) and TX2 NX.
+- Connection for 4 cameras MIPI-CSI2 with 2 lanes each one compatible with RASPBERRY PI 15 pins cameras.
+- GPS Incorporated with Dead Reckoning automotive grade
+- Bluetooth 5.0
+- Dual IMU automotive grade (gyroscope and accelerometer)
+- Slot M.2 KEY B to implement a MODEM 3G/4G
+- Slot SIMCARD and SD CARD
+- USB 3.1 automotive grade
+- CAN-FD /CAN-BUS compatible
+- Ethernet
 
 <img src="https://github.com/barovehicles/lita-carrier-board/blob/86451852ae479502b5e41a851f5beaa5fbdff264/images/lita_modules.jpg" width="100%">
 
