@@ -32,7 +32,7 @@ We will be providing the support to install the correct configuration to access 
 - Download the package Linux for Tegra (L4T) Using the SDK Manager.
 
 
-###Table of Contents
+### Table of Contents
 
 * [Installing your board](https://github.com/barovehicles/lita-carrier-board/blob/main/0.Installation.md) 
 
