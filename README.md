@@ -35,5 +35,5 @@ We will be providing the support to install the correct configuration to access 
 ### Table of Contents
 
 * [Installing your board](https://github.com/barovehicles/lita-carrier-board/blob/main/0.Installation.md) 
-* [Using the Peripherals](https://github.com/barovehicles/lita-carrier-board/blob/main/1.%20Using_the_peripherals.md)
+* [Using the Peripherals](https://github.com/barovehicles/lita-carrier-board/blob/main/2.%20Using_the_peripherals.md)
 
