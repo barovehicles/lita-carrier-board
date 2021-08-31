@@ -36,6 +36,6 @@ We will be providing the support to install the correct configuration to access 
 
 * [Installing your board](https://github.com/barovehicles/lita-carrier-board/blob/main/0.Installation.md) 
 * [Using the Peripherals](https://github.com/barovehicles/lita-carrier-board/blob/main/2.%20Using_the_peripherals.md)
-* [Printing the Case](https://github.com/barovehicles/lita-carrier-board/blob/main/3.%Printing_the_case.md)
+* [Printing the Case](https://github.com/barovehicles/lita-carrier-board/blob/main/3.%20Printing_the_Case.md)
 
 
