@@ -35,6 +35,7 @@ We will be providing the support to install the correct configuration to access 
 ### Table of Contents
 
 * [Installing your board](https://github.com/barovehicles/lita-carrier-board/blob/main/0.Installation.md) 
-* [How to boot from the SD Card](https://github.com/barovehicles/lita-carrier-board/blob/main/1.%20Booting%20from%20SD%20Card.md)
 * [Using the Peripherals](https://github.com/barovehicles/lita-carrier-board/blob/main/2.%20Using_the_peripherals.md)
+* [Printing the Case](https://github.com/barovehicles/lita-carrier-board/blob/main/3.%Printing_the_case.md)
+
 
